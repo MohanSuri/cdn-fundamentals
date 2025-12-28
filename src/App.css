@@ -27,26 +27,3 @@
   font-size: 1.2rem;
   margin-bottom: 2rem;
 }
-
-.image-container {
-  background: white;
-  padding: 2rem;
-  border-radius: 15px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-  margin-top: 2rem;
-}
-
-.sample-image {
-  max-width: 400px;
-  width: 100%;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-}
-
-.image-caption {
-  color: #667eea;
-  font-size: 1rem;
-  margin-top: 1rem;
-  font-weight: 500;
-}
