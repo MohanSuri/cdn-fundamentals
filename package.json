@@ -1,0 +1,20 @@
+{
+  "name": "cdn-fundamentals",
+  "version": "1.0.0",
+  "description": "This helps understanding how assets are stored and retrieved in prod",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.1.2",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "vite": "^7.3.0"
+  }
+}
